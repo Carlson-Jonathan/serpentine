@@ -1,7 +1,7 @@
 <h1>Serpentine</h1>
 <h3>Dependencies</h3>
-<ul><li>Python 2.7</li>
-<li>PyGame (No longers supports Python 2)</li></ul>
+<ul><li>Python</li>
+<li>PyGame</li></ul>
 <h3>Description</h3>
 <p> This was one of my very first coding projects in Python, which came mostly from tutorials. I 
 created the basic "snake game" we are familiar with from the 1970s, then added additional content such as
