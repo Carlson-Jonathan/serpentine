@@ -9,3 +9,5 @@ multiple randomly generated water traps, colors, textures, sound effects, music,
 animation effect runs on a seperate thread, which I was quite pleased with at the time considering
   how new to coding I was. This project is complete. The folder titled "<b>dist</b>" contains an 
 installer for the 32-bit version of the game for Windows. Enjoy! </p>
+<h3>Screen Shot</h3>
+<img src="screenshot.png">
